@@ -89,12 +89,12 @@ python -m mpi_extrapolation.mytrain \
 ```
 
 10. MPI predict_mpi
-<!-- ```cmd
+```cmd
 python -m mpi_extrapolation.mytrain_for_wct \
 --summary_freq 5 \
 --save_latest_freq 200 \
 --inputs mpi_extrapolation/examples/1.npz
-``` -->
+```
 
 11. render_sway_styletrans_first
 12. render_sway_stylize_every_pose
